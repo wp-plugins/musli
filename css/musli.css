@@ -1,0 +1,85 @@
+/* MUSLI STYLES */
+/* Saturday 15th of November 2014 07:33:54 PM */
+
+.musli *{
+    padding:0;
+    margin:0;
+    list-style:none;
+    color: #444;
+}
+.musli{
+    top: 20%;
+    position:fixed;
+    right:0px;
+    z-index:100;
+    list-style:none;
+}
+.musli-bottom{
+    bottom:0px;
+    right:auto;
+    top:auto;
+    left:20%;
+}
+.musli-top{
+    top:0px;
+    right:auto;
+    bottom:auto;
+    left:20%;
+}
+.musli-left{
+    left:0px;
+    top: 20%;
+    right:auto;
+    bottom:auto;
+}
+.musli > li{
+    margin-bottom: 2px;
+    width: 35px;
+    height: 35px;
+    position:relative;
+}
+.musli-bottom > li, .musli-top > li{
+    margin-right: 1px;
+    margin-bottom: 0;
+    float:left;
+    margin-right: 2px;
+}
+.musli > li > span{
+    overflow:hidden;
+    display:block;
+    font-size:0;
+    cursor:pointer;
+    height: 100%;
+    text-align:center;
+    font-size:20px;
+}
+.musli > li > span > i{
+    line-height: 35px;
+    color: #ffffff;
+}
+.musli > li > div{
+    padding: 5px;
+    background: #ffffff;
+    float: left;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 0;
+    z-index: 100;
+    border: solid #1e73be 3px;
+    left: 35px;
+}
+.musli-bottom > li > div{
+    top: 35px;
+    left:auto;
+}
+.musli-top > li > div{
+    left:auto;
+    top:auto;
+    bottom:35px;
+}
+.musli-left > li > div{
+    top:0px;
+    left:auto;
+    right: 35px;
+}

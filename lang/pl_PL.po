@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Musli\n"
+"POT-Creation-Date: 2014-11-15 17:00+0100\n"
+"PO-Revision-Date: 2014-11-15 17:00+0100\n"
+"Last-Translator: ziemekpr0 <ziemekpr0@gmail.com>\n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _e;__()\n"
+"X-Poedit-SearchPath-0: J:\\XAMPP\\htdocs\\owl\\wp-content\\plugins\\musli\n"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/musli.php:644
+msgid "<p>Now visit your Widgets Managment page and add widgets.</p>"
+msgstr ""
+"<p>Teraz przejdź do strony zarządzania pluginami i dodaj jakieś widgety.</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:7
+msgid "JavaScript is required!"
+msgstr "JavaScript jest wymagany!"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:29
+msgid "<h3>General tab option</h3>"
+msgstr "<h3>Ustawienia główne</h3>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:34
+msgid "Tab name: "
+msgstr "Nazwa zakładki: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:41
+msgid "Tab type: "
+msgstr "Rodzaj zakładki: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:44
+msgid "Facebook Likebox"
+msgstr "Facebook Likebox"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:45
+msgid "Google+ Badge"
+msgstr "Odznaka Google+"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:46
+msgid "Twitter Timeline"
+msgstr "Linia czasu Twittera"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:47
+msgid "Widget area"
+msgstr "Pole typu widget"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:48
+msgid "Custom"
+msgstr "Własny"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:61
+msgid "<h3>Tab type specific options - Custom</h3>"
+msgstr "<h3>Opcje zakładki - własny</h3>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:66
+msgid "Content: "
+msgstr "Zawartość"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:69
+msgid ""
+"<p class=\"musli-desc\">In most cases it is better to use widget tab instead."
+"</p>"
+msgstr ""
+"<p class=\"musli-desc\">Dla większości zastosowań wygodniejsze i "
+"bezpieczniejsze jest użycie zakładki typu widget.</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:82
+msgid "<h3>Tab type specific options - Facebook LikeBox</h3>"
+msgstr "<h3>Opcje zakładki Facebook LikeBox</h3>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:87
+msgid "Facebook Page URL: "
+msgstr "URL do strony Facebook"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:90
+msgid ""
+"<p class=\"musli-desc\">Example: https://www.facebook.com/NewDividepl</p>"
+msgstr ""
+"<p class=\"musli-desc\">Przykład: https://www.facebook.com/NewDividepl</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:95
+msgid "LikeBox width: "
+msgstr "Szerokość LikeBox-u"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:101
+msgid "LikeBox height: "
+msgstr "Wysokość LikeBox-u"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:107
+msgid "Color Scheme: "
+msgstr "Schemat kolorów"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:110
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:172
+msgid "light"
+msgstr "jasny"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:111
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:173
+msgid "dark"
+msgstr "ciemny"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:116
+msgid "Show Friends' Faces: "
+msgstr "Pokazuj twarze znajomych"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:122
+msgid "Show Header: "
+msgstr "Pokazuj nagłówek"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:128
+msgid "Show Posts: "
+msgstr "Pokazuj posty"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:134
+msgid "Show Border: "
+msgstr "Pokazuj obramowanie"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:149
+msgid "<h3>Tab type specific options - Google+</h3>"
+msgstr "<h3>Opcje zakładki - Odznaka Google+</h3>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:154
+msgid "Google+ ID: "
+msgstr "Google+ ID: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:157
+msgid "<p class=\"musli-desc\">Example: 105865537512501982443</p>"
+msgstr "<p class=\"musli-desc\">Przykład: 105865537512501982443</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:162
+msgid "Width: "
+msgstr "Szerokość"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:169
+msgid "Color Theme: "
+msgstr "Schemat kolorów: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:179
+msgid "Cover photo: "
+msgstr "Zdjęcie z okładki: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:186
+msgid "Tagline: "
+msgstr "Tagline: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:199
+msgid "<h3>Tab type specific options - Twitter</h3>"
+msgstr "<h3>Opcje zakładki - Linia czasu Twitter</h3>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:203
+msgid "User name: "
+msgstr "Nazwa użytkownika"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:206
+msgid "<p class=\"musli-desc\">Example: ziemekpr0</p>"
+msgstr "<p class=\"musli-desc\">Przykład: ziemekpr0</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:212
+msgid "Widget ID: "
+msgstr "Widget ID: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:215
+msgid "<p class=\"musli-desc\">Example: 351349730481160192</p>"
+msgstr "<p class=\"musli-desc\">Przykład: 351349730481160192</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:220
+msgid ""
+"<p class=\"musli-desc\">Please visit <a href=\"https://twitter.com/settings/"
+"widgets/\">https://twitter.com/settings/widgets/</a> for more information.</"
+"p>"
+msgstr ""
+"<p class=\"musli-desc\">Odwiedź <a href=\"https://twitter.com/settings/"
+"widgets/\">https://twitter.com/settings/widgets/</a>aby dowiedzieć się "
+"więcej o konfiguracji widgetu.</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:227
+msgid "<h3>Tab type specific options - widget area</h3>"
+msgstr "<h3>Opcje zakładki - Widget</h3>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:232
+msgid "Sidebar CSS ID: "
+msgstr "Identyfikator CSS widgetu: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:235
+msgid ""
+"<p class=\"musli-desc\">You can use this id, to add CSS styles to your "
+"widget. Example: my-sidebar</p>"
+msgstr ""
+"<p class=\"musli-desc\">Podany identyfikator można wykorzystać do dodania "
+"dodatkowych styli CSS. Przykład: moj-widget</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:240
+msgid ""
+"<p class=\"musli-desc\">After saving, go to your Dashboard menu, Apperiance "
+"&rarr; Widget, and drop some widget on your new widget area.</p>"
+msgstr ""
+"<p class=\"musli-desc\">Po zapisaniu zmian, przejdź do kokpitu WordPressa, "
+"Wygląd &rarr; Widgety, i dodaj jakieś widgety.</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:246
+msgid "<h3>Icon image</h3>"
+msgstr "<h3>Wygląd ikony</h3>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:250
+msgid "Upload your image: "
+msgstr "Wybierz obrazek: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:255
+msgid "<p class=\"musli-desc\">Enter URL or upload image</p>"
+msgstr ""
+"<p class=\"musli-desc\">Wprowadź URL albo wyślij zdjęcie na serwer.</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:268
+msgid "Use font-awesome icon: "
+msgstr "Użyj ikony Font-Awesome: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:275
+msgid "Font awesome icon class: "
+msgstr "Klasa CSS ikony Font Awesome"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:278
+msgid "<p class=\"musli-desc\">Example: fa-picture-o</p>"
+msgstr "<p class=\"musli-desc\">Przykład: fa-picture-o</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:283
+msgid "Background color: "
+msgstr "Kolor tła: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:290
+msgid "Font color: "
+msgstr "Kolor czcionki: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:297
+msgid "Font size: "
+msgstr "Rozmiar czcionki: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:313
+msgid "Spin icon: "
+msgstr "Obracaj ikonę: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:316
+msgid ""
+"<p class=\"musli-desc\">CSS3 animations aren't supported in IE8 - IE9.</p>"
+msgstr ""
+"<p class=\"musli-desc\">Animacje CSS3 nie są wspierane przez IE8 - IE9.</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:325
+msgid "<h3>Custom CSS options</h3>"
+msgstr "<h3>Dodatkowe opcje CSS</h3>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:330
+msgid "Use custom CSS for this tab: "
+msgstr "Użyj dodatkowych opcji CSS dla tej zakładki: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:337
+msgid "Tab width: "
+msgstr "Szerokość zakładki: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:344
+msgid "Tab height: "
+msgstr "Wysokość zakładki: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:351
+msgid "Tab border color: "
+msgstr "Kolor obramowania zakładki: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:358
+msgid "Tab background color: "
+msgstr "Kolor tła zakładki: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:366
+msgid ""
+"<p class=\"musli-desc\">Global CSS settings will be overwritten by "
+"individual tab settings.</p>"
+msgstr ""
+"<p class=\"musli-desc\">Niektóre główne opcje CSS można nadpisać włączając "
+"obsługę dodatkowych opcji CSS.</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:371
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:346
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:379
+msgid "<h3>What's next?</h3>"
+msgstr "<h3>Co dalej?</h3>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:381
+msgid "Add another tab"
+msgstr "Dodaj kolejną zakładkę"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:382
+msgid "Manage your tabs (change order, edit or delete)"
+msgstr "Zarządzaj zakładkami (zmieniaj kolejność, edytuj opcje, lub usuwaj)"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:383
+msgid "View global options"
+msgstr "Przejdź do opcji głównych"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/add_edit_tab_form.php:385
+msgid ""
+"<p class=\"musli-desc\">Or go back to your page view, and check out current "
+"result.</p>"
+msgstr ""
+"<p class=\"musli-desc\">Albo wróć do swojej strony i sprawdź obecny efekt</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_list_table.php:139
+msgid "Add new tab"
+msgstr "Dodaj nową zakładkę"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_list_table.php:143
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:7
+msgid "This plugin require enebled JavaScript to work properly."
+msgstr ""
+"Ten plugin do poprawnego działania wymaga włączonej obsługi JavaScript."
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:24
+msgid "<h3>Position on screen</h3>"
+msgstr "<h3>Pozycja na ekranie</h3>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:29
+msgid "right"
+msgstr "prawa"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:37
+msgid "top"
+msgstr "góra"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:45
+msgid "bottom"
+msgstr "dół"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:53
+msgid "left"
+msgstr "lewo"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:63
+msgid "<h3>Global CSS settings</h3>"
+msgstr "<h3>Opcje główne CSS</h3>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:68
+msgid "Margin from browser's edge: "
+msgstr "Margines od krawędzi okna przeglądarki: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:75
+msgid "Margin between tabs: "
+msgstr "Margines pomiędzy zakładkami: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:82
+msgid "Padding: "
+msgstr "Margines wewnętrzny: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:89
+msgid "Tab's width: "
+msgstr "Szerokość zakładki: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:96
+msgid "Tab's height:  "
+msgstr "Wysokość zakładki: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:103
+msgid "Hide MUSLI on page width:  "
+msgstr "Ukryj Musli przy szerokości strony: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:106
+msgid "<p class=\"musli-desc\">Enter 0 value for no hidding.</p>"
+msgstr "<p class=\"musli-desc\">Wprowadź wartość 0, aby nie ukrywać.</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:111
+msgid "Tab's border color:  "
+msgstr "Kolor obramowania zakładki: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:118
+msgid "Tab's border thickness: "
+msgstr "Grubość linii obramowania zakładki: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:125
+msgid "Tab's background color:  "
+msgstr "Kolor tła zakładki: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:132
+msgid "Tab's icon width: "
+msgstr "Szerokość ikony: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:139
+msgid "Tab's icon height:  "
+msgstr "Wysokość ikony zakładki: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:146
+msgid "Rounded corners:  "
+msgstr "Zaokrąglone rogi: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:154
+msgid ""
+"<p class=\"musli-desc\"><strong>NOTE: </strong>Some global CSS settings "
+"might be overwritten by individual tab settings.</p>"
+msgstr ""
+"<p class=\"musli-desc\"><strong>UWAGA: </strong>Niektóre główne opcje CSS "
+"mogą zostać nadpisane przez dodatkowe opcje CSS zakładek.</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:160
+msgid "<h3>* Include additional scripts</h3>"
+msgstr "Ładuj dodatkowe skrypty: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:164
+msgid "Include FA: "
+msgstr "Dołącz FA"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:167
+msgid ""
+"<p class=\"musli-desc\">If you are NOT using Font Awesome icons, then "
+"disable that option.</p>"
+msgstr ""
+"<p class=\"musli-desc\">Jeżeli NIE koszystasz z ikon Font Awesome, odznacz "
+"tę opcję.</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:172
+msgid "Include jQuery easing effects: "
+msgstr "Dołącz efekty animacji jQuery: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:175
+msgid ""
+"<p class=\"musli-desc\">If you are NOT using easing effects for tab "
+"animations (do not want to), then disable that option.</p>"
+msgstr ""
+"<p class=\"musli-desc\">Jeżeli nie korzystasz, albo nie chcesz korzystać, z "
+"dodatkowych efektów animacji jQuery, odznacz tę opcję.</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:181
+msgid ""
+"<p class=\"musli-desc\"><strong>NOTE: </strong>Disabling options above might "
+"increase your site performance.</p>"
+msgstr ""
+"<p class=\"musli-desc\"><strong>UWAGA: </strong>Wyłączenie powyższych opcji "
+"może podnieść wydajność Twojej witryny.</p>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:187
+msgid "<h3>* Startup settings</h3>"
+msgstr "<h3>* Opcje startu/h3>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:191
+msgid "Start with opened tab: "
+msgstr "Zacznij z otwartą zakładką: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:198
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:240
+msgid "Select tab: "
+msgstr "Wybierz zakładkę: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:209
+msgid "Autohide startup tab: "
+msgstr "Automatycznie ukryj zakładkę: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:216
+msgid "Autohide tab after: "
+msgstr "Automatycznie ukryj zakładkę po: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:233
+msgid "Autoopen tab: "
+msgstr "Automatycznie otwórz zakładkę: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:251
+msgid "Autoopen tab after: "
+msgstr "Automatycznie otwórz zakładkę po: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:268
+msgid "<h3>Animation settings</h3>"
+msgstr "<h3>Opcje animacji</h3>"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:272
+msgid "Animation after: "
+msgstr "Animuj po:"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:276
+msgid "Hover"
+msgstr "Hover"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:279
+msgid "Click"
+msgstr "Kliknięcie"
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:286
+msgid "Animation speed: "
+msgstr "Prędkość animacji: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:300
+msgid "* Animation effect: "
+msgstr "Efekt animacji: "
+
+#: J:\XAMPP\htdocs\owl\wp-content\plugins\musli/php/musli_options_page.php:343
+msgid "<p><strong>Note: </strong></p><p>* - Premium features</p>"
+msgstr "<p><strong>Uwaga: </strong></p><p>* - opcje premium.</p>"

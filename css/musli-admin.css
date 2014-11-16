@@ -1,0 +1,76 @@
+/* MUSLI DASHBOARD STYLES */
+/* LAST MODIFICATION 2014-11-08 23:13 */
+
+.drop-highlight{
+	background: #ffeba7;
+}
+.tabs tr:hover {
+	cursor: pointer;
+}
+.note{
+	margin:20px auto;
+	padding:10px 20px;
+	background: url('../img/pat.png') repeat;
+	border:solid #ebebeb 1px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px; 
+}
+.note table tr td{
+	vertical-align:top;
+}
+.musli-options-section{
+	margin:10px auto 15px auto;
+	background: #fff;
+	border: 1px solid rgb(229, 229, 229);
+	box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.04);
+	padding:0 0 15px 0;
+}
+.admin-area-icon{
+	overflow:hidden;
+	display:block;
+	font-size:0;
+	cursor:pointer;
+	text-align:center;
+}
+.musli-options-section h3{
+	font-size:14px;
+	border-bottom:solid #ebebeb 1px;
+	margin:0;
+	padding:8px 14px;
+}
+#musli-position{
+	margin:10px 10px 0;
+}
+#musli-position li{
+	text-align:center;
+	display:inline-block;
+	padding:5px;
+	margin-right:5px;
+}
+.musli-options-section table, .musli-options-section p{
+	margin:10px;
+}
+.musli-options-section table th{
+	text-align:left;
+	padding-right:20px;
+}
+.musli-options-section table td, .musli-options-section table th{
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.musli-options-section ul{
+	margin:8px 12px;
+}
+.musli-desc{
+	font-size:12px;
+	color:#666;
+	margin:8px 12px;
+}
+td .musli-desc{
+	margin-top:8px;
+	margin-left:0;
+}
+.musli-options-section[id^="tab_form"]{
+	display:none;
+}
