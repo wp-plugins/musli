@@ -2,12 +2,13 @@
 Contributors: ziemekpr0
 Tags: slider, floating tabs, facebook likebox, google plus badge, social slider, social tabs, social plugin, social widget, social icons
 Requires at least: 4.0
+Donate link: http://www.pah.org.pl/nasze-dzialania/8/pajacyk
 Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Musli is a small, flexible multi tabs slider. Promote your fanpage, timeline, or YT video by creating set of animated tabs with your social networking profiles.
+Musli is a small, flexible multi tabs slider. Promote your fanpage or YT videos by creating set of animated tabs with your social networking profiles.
 
 == Description ==
 
@@ -21,7 +22,27 @@ With built-in presets you can quickly configure most popular social profiles lik
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Add and configure tabs (Musli -> Add New Tab), configure plugin (Musli -> Options)
 
+== Frequently Asked Questions ==
+
+= Saving options not change anything on the frontend page =
+
+This problem might occur if in your browser was cache created. Try to clean up cache from your browser, or try another browser.
+
+= Cleaning browser's cache didn't helped, what's next?
+
+Check if you have some caching plugins installed. Try to clean up your site's cache.
+
 == Screenshots ==
 
 1. Frontend - additional tabs at right side.
 2. Backend - saved tabs list
+
+== Changelog ==
+
+= 1.0 =
+* First commit of Musli.
+
+== Upgrade Notice ==
+
+= 1.0 =
+First commit of Musli.
