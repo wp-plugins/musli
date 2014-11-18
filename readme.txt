@@ -16,7 +16,10 @@ Musli is a small, flexible tabs slider for your social media networking cards/pr
 
 With built-in presets you can quickly configure most popular social profiles like Facebook LikeBox, Google+ Badge, Twitter timeline. Other than that you can even use all of your WordPress widgets.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/vssoRa7nQOQ" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=vssoRa7nQOQ
+
+Basic configuration example and usage
+
 
 == Installation ==
 
