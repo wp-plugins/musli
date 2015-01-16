@@ -2,7 +2,7 @@
 Contributors: ziemekpr0
 Tags: slider, floating tabs, facebook likebox, google plus badge, social slider, social tabs, social plugin, social widget, social icons
 Requires at least: 4.0
-Donate link: http://newdivide.pl
+Donate link: http://musli.wpadmin.pl
 Tested up to: 4.1
 Stable tag: trunk
 License: GPLv2 or later

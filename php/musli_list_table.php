@@ -155,13 +155,18 @@ class Musli_list_table extends WP_List_Table {
 
 
     <div class="note">
-        <p>Thanks for using MUSLI. If you like this plugin, please rate it here, and like my <a href="https://www.facebook.com/NewDividepl">fanpage</a> below. Thanks!</p>
+        <p>Thank you for using MUSLI. If you like this plugin, maybe you would be interested in pr0 version? Visit plugin's home page and find out what features it has.</p>
+        <a style="float:left;" href="http://musli.wpadmin.pl/"><img src="<?php echo MUSLI_URL . '/img/musli-pr0.png'; ?>" alt="Musli pr0 icon" /></a>
         <table>
             <tr>
-                <td><iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FNewDividepl&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=35&amp;appId=283077631817635" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px;" allowTransparency="true"></iframe></td>
+                <td><a href="http://musli.wpadmin.pl/">&larr; Plugin's home page</a></td>
+            </tr>
+            <tr>
+                <td><iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FNewDividepl&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=18&amp;appId=283077631817635" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:18px;" allowTransparency="true"></iframe></td>
+            </tr>
+            <tr>
                 <td><!-- Place this tag where you want the +1 button to render. -->
 <div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300" data-href="http://newdivide.pl"></div>
-
 <!-- Place this tag after the last +1 button tag. -->
 <script type="text/javascript">
   (function() {
@@ -170,7 +175,6 @@ class Musli_list_table extends WP_List_Table {
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
 </script></td>
-                <td>Plugin's home page: <a href="http://musli.newdivide.pl/">musli.newdivide.pl</a></td>
             </tr>
         </table>
         
